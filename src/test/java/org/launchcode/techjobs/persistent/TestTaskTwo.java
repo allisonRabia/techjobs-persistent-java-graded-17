@@ -345,7 +345,7 @@ public class TestTaskTwo extends AbstractTest {
 //        assertEquals(EmployerRepository.class, employerRepositoryField.getType(), "employerRepository must be of type EmployerRepository");
 //        assertNotNull(employerRepositoryField.getAnnotation(Autowired.class), "employerRepository must have the @Autowired annotation");
 //    }
-//
+////
 //    /*
 //    * Verifies that EmployerController.index is properly defined
 //    * */
@@ -538,7 +538,7 @@ public class TestTaskTwo extends AbstractTest {
 //        skillRepositoryField.set(skillController, skillRepository);
 //        displayViewSkillMethod.invoke(skillController, model, 1);
 //    }
-//
+
 //    // --- END CONTROLLER TESTS --- //
 //
 //    /*
